@@ -1,0 +1,970 @@
+﻿Это прямой рейс?	Is that a direct flight?
+В этом рейсе есть промежуточные посадки?	Does the flight land somewhere before the final destination?
+Какие есть рейсы до Лондона?	What flights are there to London?
+Пожалуйста, проверьте в других компаниях.	Please check other airlines.
+Не могли бы Вы уточнить, есть ли билеты на этот рейс?	Would you please check whether there is room on the flight?
+Сколько рейсов в день?	How frequent are the flights?
+Когда мне нужно быть в аэропорту?	How early must I be at the airport?
+Сколько мне можно брать багажа?	How much luggage am I allowed to take?
+У меня нет багажа.	I don't have luggage.
+Сколько стоит билет?	How much is the ticket?
+Есть ли какие-нибудь скидки?	Is there any discount?
+Забронируйте место на ближайший рейс до Лондона, пожалуйста.	Please reserve the next flight to London.
+Один билет до Лондона, бизнес-класс.	One business class ticket to London.
+Я хотел бы вернуть свой билет до Варшавы.	I would like to cancel my ticket to Warsaw.
+Снимите этот заказ, пожалуйста.	Cancel this reservation, please.
+Я хотел бы подтвердить заказ.	I'd like to reconfirm a reservation.
+Я хочу изменить заказ.	I want to change my reservation.
+Где стойка Финнэйр?	Where is the Finnair counter?
+Где здание аэропорта?	Where is the airport terminal?
+Где проходит регистрация?	Where do I check in?
+Отправьте багаж в мою гостиницу.	Address the luggage to my hotel.
+Сколько нужно платить за лишний вес?	How much is the excess baggage charge?
+Я хотел бы отправить этот багаж в Париж.	I'd like to send this baggage to Paris.
+Я транзитом до Лос-Анжелеса.	I'm in transit for Los Angeles.
+Когда посадка?	When is boarding time?
+На какой выход?	What is the gate number?
+Этот рейс отправится вовремя?	Will this flight leave on time?
+Я хотел бы забронировать место в салоне для некурящих.	I would like to reserve a seat in the non-smoking section.
+Место у окна, пожалуйста.	Window seat, please.
+В самолете
+Где это место?	Where is this seat?
+Не могли бы Вы поменяться со мной местами?	Could I change seats with you?
+У Вас есть английская газета?	Do you have an English newspaper?
+Не могли бы Вы принести мне одеяло?	Would you please get me a blanket?
+Принесите подушку, пожалуйста.	Could you give me a pillow, please?
+Можно еще один напиток?	Can I have another drink?
+Можно еще орехов?	Can I have more nuts?
+Я хотел бы заказать напитки.	I want to order some drinks.
+Чай, пожалуйста.	Tea, please.
+Есть ли на борту стюардесса, говорящая по-французски? Is there a French - speaking stewardess on board?
+Есть ли на борту стюардесса, говорящая по-английски? Is there a srewardess on board who can speak English?
+Вы можете перевести это на английский?	Can you translate it into English?
+Пожалуйста, не курите здесь.	Please don't smoke here.
+На сколько отложен рейс?	How long will it be delayed?
+Надолго мы здесь остановились?	How long will we stop here?
+Мне плохо.	I feel sick.
+Можно мне откинуть спинку?	May I recline my seat?
+Можно в самолете купить что-нибудь без пошлины?	Do they sell duty-free goods on board?
+Мне нужны для кино наушники.	I would like some earphones for the movie.
+Это не работает.	It doesn't work.
+Когда мы прибываем?	What time do we arrive?
+Таможня
+Дайте мне, пожалуйста, другой бланк декларации.	May I have another customs form?
+Покажите, пожалуйста, как заполнять это форму.	Please show me how to fill in the form.
+Вот мой паспорт.	Here's my passport.
+Поставьте мне, пожалуйста, штамп в паспорт.	Would you please stamp my passport?
+Какова цель Вашей поездки?	What is the purpose of your visit?
+Я турист.	I'm a tourist.
+Я в отпуске.	I am on vacation.
+Я в командировке.	I am on a business trip.
+Это мой первый приезд.	This is my first visit.
+Как долго Вы здесь пробудите?	How long will you stay here?
+Я собираюсь пробыть здесь две недели.	I plan to stay two weeks.
+Вот моя транзитная виза.	This is my transit pass.
+У меня только предметы личного пользования.	I only have articles for personal use.
+Это подарок для друга.	This is a gift for a friend.
+Эта видеокамера для моего личного пользования.	This video camera is for my personal use.
+Это стоит около .	It costs about.
+Мне нечего декларировать.	I have nothing to declare.
+Беспошлинный магазин.	Duty-free shop.
+Можно в этом аэропорту что-нибудь купить?	Can we do some shopping in this airport?
+Мне нужно будет платить пошлину за камеру, которую я здесь купил?	Do I have to pay duty on the camera I bought here?
+Можно попросить чек?	May I have a receipt?
+Багаж
+Где можно получить багаж?	Where can I get my baggage?
+Вот моя багажная квитанция.	Here is my claim tag.
+Я не могу найти свой багаж.	I can't find my baggage.
+Мне не выдали багажную квитанцию при регистрации.	I didn't receive the claim tag when I checked in.
+Мой багаж поврежден, и некоторых вещей не хватает.	My baggage is broken, and some things are missing.
+Где можно найти носильщика?	Where can I find a porter?
+Это мой багаж.	This is my baggage.
+Пожалуйста, отнесите эти вещи к стоянке такси.	Please take this baggage to the taxi stand.
+В багаже есть хрупкие предметы.	It's fragile.
+Будьте осторожны, пожалуйста.	Please becareful carrying it.
+Можно взять эту багажную тележку.	May I use this baggage cart?
+Информация
+Где находится информационное бюро?	Where is the tourist information office?
+Я транзитный пассажир до Сан–Франциско.	I am a transit passenger to San Francisco.
+Я успею сделать пересадку в тот же день?	Can I make a connection on the same day?
+Сколько нужно времени на пересадку?	How long does it take to make a connection?
+Можно мне заказать номер в гостиницу?	Can I reserve a hotel room here?
+Где я могу сесть на автобус в город?	Where can I catch the shuttle bus?
+
+
+Транспорт
+В поезде
+Как мне добраться отсюда туда?	How can I get to this place from here?
+Какие поезда идут в Чикаго?	Which line goes to Chicago?
+Сколько стоит билет до Парижа?	How much for a ticket to Paris?
+Сколько стоит билет до Рима?	What is the fare to Rome?
+Мне нужен билет до Лондона.	I would like a ticket to London.
+Два билета туристического класса.	I would like two tourist class tickets.
+Я хотел бы забронировать место на этом поезде.	I’d like to reserve a seat on this train.
+Мне нужно делать пересадку?	Do I have to change trains?
+Где мне делать пересадку?	Where should I change trains?
+С какой платформы отправляется поезд?	Which platform does the train depart from?
+Я опоздал на поезд. Когда идет следующий?	I missed the train. When does the next one depart?
+Это прямой поезд на Ганбург?	Is this a direct train to Humburg?
+Этот поезд идет в Лондон?	This train goes to London, doesn’t it?
+Как долго будет задержка.	How long is the delay?
+Это поезд скорый или пригородный?	Is this train an express or a local?
+Здесь есть вагон ресторан?	Is there a dining car?
+Вагон-ресторан в начале или в хвосте поезда?	Is the dining car at the front or rear of the train?
+Это место занято?	Is this seat taken?
+Я думаю, это место мое.	I think this is my seat.
+Я предпочитаю место у окна.	I prefer a seat by the window.
+Здесь очень жарко ( холодно ).	It is very hot (cold) here.
+Можно открыть окно?	May I open the window?
+Где мы сейчас проезжаем?	Where are we passing now?
+Сколько времени поезд здесь стоит?	How long does the train stop here?
+Где следующая остановка?	Where is the next stop?
+На какой остановке мне выходить?	Which stop should I get off at?
+Сколько остановок отсюда?	How many stops from here?
+До скольких работает метро?	How late does the subway run?
+На корабле
+Во сколько отплытие?	When does it sail?
+Когда посадка?	What time do we board?
+Где я могу сесть на корабль?	Where can I board the ship?
+Проводите меня, пожалуйста, до каюты.	Would you please show me to my cabin?
+Я бы хотел позавтракать в каюте (номере).	I would like to have breakfast in my cabin (room).
+Я хотел бы зарезервировать кресло на палубе.	I’d like to reserve a deck chair.
+В какое время я могу пообедать?	What time can I dine?
+В автобусе
+Билет туда и обратно, пожалуйста.	I would like a round-trip ticket, please.
+Этот автобус идет туда?	Does this bus go to that place?
+Когда идет следующий автобус в аэропорт?	What time does the next bus for airport leave?
+Это расписание еще действует?	Is this bus schedule current?
+Сколько стоит билет туда и обратно?	What’s the round-trip fare?
+Сколько времени действителен обратный билет?	How long is a round-trip good for?
+Сколько стоит билет туда?	How much is the fare to this place?
+Как долго ехать до центра?	How long will it take to go downtown?
+Я хочу сдать билет.	I want to cancel this ticket.
+Вызовите для меня такси.	Would you call a taxi for me, please?
+Где мы можем взять такси?	Where can we get a taxi?
+Отвезите меня по этому адресу, пожалуйста.	Take me to this address, please.
+Прокат автомобиля
+Я могу взять напрокат машину?	Can I rent a car?
+Какие документы мне нужно иметь с собой?	What papers do I need with me?
+Вот мои международные водительские права.	This is my international driving permit (license).
+Я хотел бы взять эту машину напрокат на два дня.	I’d like to rent this car for two days.
+Сколько это стоит в неделю (в день)?	What does it cost per week (day)?
+Цена включает страховку?	Does the price include insurance?
+Мне нужно оставлять залог?	Do I need to pay a deposit?
+Куда я могу позвонить, если что-нибудь случится?  Please give me some numbers to call in case of trouble.
+Покажите мне расценки, пожалуйста.	Show me a list of your rates, please.
+Сколько нужно платить за дополнительный пробег?	How much does it cost for additional kilometers?
+Я могу оставить машину в месте назначения?	May I drop the car off at destination?
+Где я могу вернуть ее?	Where can I return it?
+Пожалуйста, пошлите машину к моей гостинице завтра утром.	Please send a car to my hotel tomorrow morning.
+Я хочу подать заявление на возмещение ущерба по автомобильной страховке.	I’d like to make a car insurance claim.
+Заполните это, пожалуйста.	Please fill it out.
+Сервис
+Где можно припарковаться?	Where can I park?
+В этом районе есть гостиница?	Is there a hotel in this area?
+Где самый короткий путь на пляж?	Which is the shortest way to the beach?
+Дорога до озера хорошая?	Is the road to the lake a good one?
+Где ближайший гараж?	Where is the nearest garage?
+Сколько километров (миль) до ближайшей заправочной станции?	How many kilometers (miles) is to the nearest gas station?
+На автозаправке
+Мне нужно сорок литров бензина.	I would like to have ten gallons of gas.
+Я обычно использую бензин.	I usually use gasoline.
+Можете проверить?	Can you check it for me?
+У вас есть антифриз?	Do you have any antifreeze?
+Проверьте давление в шинах.	Would you please check the tire pressure?
+Долейте тормозной жидкости, пожалуйста.	Would you please top up the brake fluid?
+Добавьте, пожалуйста, воды в радиатор.	Would you please add some water to the radiator?
+Помойте, пожалуйста, машину.	Can I have the car washed?
+Неисправности
+Двигатель не заводится.	The engine won ’ t start.
+Двигатель перегревается.	The engine gets very hot.
+Он очень шумит.	It is noisy.
+Что - то шумит.	Something is making a noise.
+Он стучит.	It makes a knocking noise.
+Что-то не в порядке с давлением масла.	There is something wrong with the oil pressure.
+Сигнал не работает.	The horn doesn’t work.
+Подзарядите, пожалуйста, аккумулятор.	Would you please charge the battery?
+У вас есть запчасти?	Do you have spare parts?
+У нас кончился бензин.	We ’ re out of gas.
+Машина сломалась. Пришлите кого-нибудь за ней.	The car broke down. Please send someone for it.
+Вы можете починить машину?	Can you repair the car?
+Сколько времени займет ремонт машины?	How long will it take to repair the car?
+Сколько примерно будет стоить ремонт?	How much will the repairs cost, approximately?
+Ремонт покрывается моей страховкой?	Are the repairs covered by my insurance?
+Позвони мне, когда машина будет готова.	Will you call me when the car is ready?
+Авария
+Это была моя вина.	It is my fault.
+Мне кажется, это Ваша вина.	I think it was your fault.
+Не похоже, чтобы ущерб был большой.	There doesn’t seem to be much damage.
+Давайте решим вопрос между нами.	Can we settle the matter between ourselves?
+Пусть кто-нибудь вызовет полицию.	I would like somebody to call the police.
+Я иностранец. Вот мои водительские права.	I ’ m a foreigner. Here’s my driver’s license.
+Назовите Вашу фамилию и адрес, пожалуйста.	may I have your name and address?
+Можно попросить копию протокола происшествия?	May I have a copy of the accident report?
+Дорожные знаки
+Въезд запрещен.	No entry.
+Движение запрещено.	No thoroughfare.
+Обгон запрещен.	No passing.
+Въезд запрещен — одностороннее движение.	Do not enter: one way.
+Стоянка запрещена.	No parking.
+Въезд бесплатный.	Free admission.
+Одностороннее движение.	One-way traffic.
+Опасный поворот.	Dangerous bend.
+Дорожные работы.	Men at work.
+Сужение дороги.	Road narrows.
+
+
+Гостиница
+Бронирование
+Я делал заказ.	I have made a reservation.
+Места были зарезервированы для меня и моей семьи.	Reservations have been made for me and my family.
+Заказ был подтвержден в Париже.	The reservation has been confirmed in Paris.
+У вас есть свободные места?	Do you have any vacancies?
+Мне нужна комната.	I would like a room.
+Я хотел бы одноместный номер.	I’d like a single room.
+Я хотел бы номер с ванной.	I’d like a room with a bath.
+Я хотел бы номер с двумя кроватями.	I would like a room with two beds.
+Нам нужен двухместный номер с дополнительной кроватью.	We need one double room with an extra bed.
+Есть что-нибудь подешевле?	Is there anything cheaper?
+Не могли бы Вы показать мне комнату получше?	Would you please show me a better room?
+Не могли бы Вы показать мне комнату побольше (поменьше)?	Would you please show me a larger (smaller) room?
+Комнату, с видом на море.	A room facing the sea.
+Какова плата за обслуживание и налог?	How much is the service charge and tax?
+Надбавка за обслуживание учтена?	is the service charge included?
+Сколько стоит номер, включая завтрак?	How much for a room including breakfast?
+Завтрак включен?	Is breakfast included?
+Сколько это стоит в день?	What is the rate?
+Вам нужен залог?	Do you need a deposit?
+Когда я должен освободить номер?	When is check-out time?
+Вам нужен мой паспорт?	Do you need my passport?
+Можете порекомендовать другую гостиницу?	Can you recommend another hotel?
+Я сниму этот номер на неделю (месяц).	I’ll take this room for a week (month).
+Я пробуду два дня.	I ’ ll stay two nights.
+Меня зовут …	My name is…
+Где мне расписаться?	Where do I sign?
+Можно одолжить Вашу ручку?	Could I borrow your pen?
+Обслуживание
+Войдите.	Come in.
+Я хотел бы сдать на хранение некоторые ценные вещи.	I would like to put some valuables in the safety-deposit box.
+Я хотел бы забрать мои ценности.	I’d like my valuables back.
+Пошлите, пожалуйста, багаж в мой номер.	Would you please send the luggage to my room?
+Пожалуйста, пошлите кого-нибудь за моим багажом.	Please send someone for my baggage.
+Не могли бы Вы присмотреть за моим багажом?	Can you keep this baggage for me?
+Я хотел бы забрать свой багаж.	May I have my baggage back?
+В моей комнате есть розетка для электробритвы?	Is there a socket in my room for my electric shaver?
+Пожалуйста, принесите мне горячей воды.	Please bring me some hot water.
+Не могли бы Вы дать мне еще одно одеяло?	Would you give me another blanket?
+Как включать кабельное телевидение?	How do you use cable TV?
+Вам известен код Вашей страны?	Do you know what your international code is?
+Какой код России?	What is the country code for Russia?
+В какое время работает ресторан?	At what time are meals served?
+Можно заказать завтрак в номер?	Can I have breakfast in my room?
+В полвосьмого, пожалуйста.	I’d like it at 7.30 ( seven thirty ), please.
+Я хотел бы заказать завтрак на завтра.	I’d like to order breakfast for tomorrow.
+Вот мой заказ.	Here’s my order.
+Могу я идти пешком, или лучше взять такси?	Can I walk or should I take a taxi?
+Мне кто-нибудь звонил?	Is there a telephone massage for me?
+Пожалуйста, дайте мне карточку с адресом этой гостиницы.	Please give me the card with this hotel’s address.
+Я хотел бы сдать это в стирку.	I would like to have this washed.
+Будьте осторожны, пожалуйста. Это чистый шелк.	Please be careful with it. It is pure silk.
+Отправьте, пожалуйста, эту одежду в стирку.	Would you please send this clothes to the laundry?
+Вы можете почистить и отгладить этот костюм?	Will you clean and press this suit?
+Можете пришить эти пуговицы?	Can you saw these buttons on?
+Можете удалить это пятно?	Can you remove this stain?
+Можете погладить эти брюки при мне?	Can you press these pants while I wait?
+Выгладите это, пожалуйста.	Please have this pressed.
+Когда это будет готово?	When will it be ready?
+Мне это нужно к десяти часам.	I need it by 10 (ten) o’clock.
+Будьте добры разбудите меня в семь часов.	Would you please wake me at 7 (seven) o’clock?
+Пожалуйста, уберите в этой комнате.	Please make up this room.
+Принесите мне, пожалуйста, полотенце.	Please bring me a bath towel.
+Не могли бы Вы вызвать такси?	Would you please call a taxi?
+Сколько времени ехать в аэропорт на такси?	How long does it take to go to the airport by taxi?
+Жалобы
+Телевизор не работает.	The TV doesn’t work.
+Нет туалетной бумаги.	There is no toilet paper.
+Нет мыла.	There is no soap.
+Замок сломан.	The lock is broken.
+Раковина засорена.	The sink is clogged.
+Нет горячей воды.	There’s no hot running water.
+Я хотел бы поменять комнату.	I’d like to change my room.
+Я до сих пор жду заказанный завтрак.	I’m still waiting for the breakfast I ordered.
+Тут, должно быть, ошибка. Это не мое.	There must be a mistake. These are not mine.
+Пятна не удалили.	The stains have not been removed.
+Это пятно от крови.	This stain is blood.
+Я заказывал кровать на двоих, а получил две односпальных.	I reserved a double bed, but I got a twin.
+Эта комната слишком маленькая. У вас есть побольше?	This room is too small. Don’t you have a bigger one?
+Оплата
+Я уезжаю.	I’m checking out.
+Я уезжаю завтра.	I’m leaving tomorrow.
+Я хотел бы уехать на день раньше.	I want to leave one day earlier.
+Когда мне нужно освободить комнату?	When do I have to vacate the room?
+Я хотел бы продлить мое пребывание на несколько дней.	I’d like to extend my stay for a few days.
+Можно получить счет?	May I have the bill?
+Можно взглянуть на счет?	Could I see the bill?
+За что этот счет?	What’s this bill for?
+По - моему, это дороговато.	I find it a little expensive.
+Извините, но это не моя подпись.	I’m sorry, this isn’t my signature.
+Вы принимаете кредитные карточки?	Will you accept a credit card?
+Вы берете дорожные чеки?	Do you take traveler’s checks?
+Мне очень здесь понравилось.	I ’ ve enjoyed my stay.
+Услуги
+Где находится столовая?	Where is the dining room?
+Здесь есть буфет?	Is there a snack bar here?
+В моей комнате есть мини-бар?	Is there a mini-bar in my room?
+У вас есть гараж?	Do you have a garage?
+Здесь есть бассейн ( сауна )	Is there a swimming pool (sauna)?
+Здесь есть косметический салон?	Is there a beauty shop?
+Где аварийный выход?	Where is the emergency exit?
+Аренда
+Я хочу подыскать квартиру.	I want to find an apartment for rent.
+Я хотел бы снять двухкомнатную квартиру.	I’d like to rent a two-room apartment.
+Я бы предпочел меблированную квартиру.	I would prefer a furnished apartment.
+Сколько нужно заплатить сразу?	How much is the down payment?
+Сколько надо платить в месяц?	How much is the monthly rate?
+Можно снять гараж?	Is it possible to rent a garage?
+
+
+В ресторане
+Заказ столика
+Здесь есть поблизости хороший ресторан?	Are there any good restaurants around here?
+Вы можете порекомендовать хороший ресторан?	Can you recommend a good place to eat?
+Что-нибудь, где не слишком дорого.	Some place not too expensive.
+Здесь поблизости есть китайский ресторан?	Is there a Chinese restaurant near here?
+Я хотел бы пойти в китайский ресторан.	I'd like to go to a Chinese restaurant.
+Я хотел бы попробовать лучшие местные блюда.	I want to eat the best local food.
+Нам нужно делать заказ заранее?	Do we have to make a reservation.
+Вы не могли бы принять мой заказ?	Can you make reservations for me?
+Когда вы открываетесь на завтрак?	What time do you open for breakfast?
+Мне нужен стол на двоих.	I would like a table for two?
+У вас есть столик у окна?	Do you have a table by the window?
+Нас шесть человек.	We are a party of six.
+У меня заказ.	I have a reservation.
+Заказ блюд
+Я хотел бы сделать заказ.	I'd like to place an order.
+Я хотел бы поужинать.	I would like supper.
+Я бы предпочел легкий завтрак.	I would like a continental breakfast.
+Какой напиток Вы предпочитаете перед обедом?	What drink would you like before dinner?
+Я возьму то, что Вы посоветуете.	I'll have whatever you recommend.
+Что бы Вы посоветовали?	What do you recommend?
+Какое в этом ресторане фирменное блюдо?	What is the specialty of the house.
+Меню, пожалуйста.	Menu, please.
+Можно попросить меню и карту вин, пожалуйста.	May I have the menu and the wine list, please?
+Вы подаете вегетарианское меню?	Do you serve vegetarian food?
+У вас есть меню на английском?	Is there an English menu?
+Какой у вас сегодня суп?	What kind of soup are you serving today?
+Какой сегодня фирменный коктейль?	What's the cocktail of the day?
+Что будете заказывать?	May I take your otder?
+Я возьму то же самое.	I'll have the same thing.
+Я возьму это.	I'll have this.
+Сколько времени это займет?	How long will it take?
+Яичницу (омлет).	Scrambled eggs.
+Я возьму только бутерброд с ветчиной.	I'll just have a ham sandwich.
+Бифштекс с жареным картофелем.	I'll have a T-bone steak with fried potatoes.
+Вам картофель жареный, запеченный или пюре?	Would you like fried, baked or mashed potatoes?
+Как вам приготовить?	How would you like it?
+Средне пожаренный, пожалуйста.	Medium rare, please.
+Хорошо пожаренный, пожалуйста.	Well - done, please.
+Карту вин, пожалуйста.	Please show me the wine list.
+Какие вина у вас есть?	What kind of wine do you have?
+Я бы хотел бутылку белого вина.	I would like a bottle of white wine.
+Сколько стоит белая бутылка?	How much is a whole bottle?
+Сколько стоит один бокал?	How much is a glass?
+Я бы хотел чашку кофе (чая)	I would like a cup of coffee (tea).
+Можно попросить стакан воды?	May I have a glass of water?
+Апельсиновый или томатный сок?	Orange juice or tomato juice?
+Как на счет чего-нибудь на десерт?	How about some dessert?
+Блинчики и молочный коктейль, пожалуйста.	Pancakes and a milk shake, please.
+Обслуживание
+Еще одну порцию риса, пожалуйста.	One more order of rice, please.
+Два гамбургера с собой, пожалуйста.	Two hamburgers to go, please.
+С маслом.	With butter.
+С лимоном.	With lemon.
+Еще немного, пожалуйста.	A little more, please.
+Больше не надо, спасибо.	No more, thank you.
+Передайте, пожалуйста, соль.	Would you please pass the salt?
+Это вкусно?	How does it taste?
+Было очень вкусно.	It was delicious.
+Я сыт.	It was more than I could eat.
+Можно мне получить это прямо сейчас?	Can I have it right away?
+Поторопитесь, пожалуйста.	Would you please hurry?
+Это не мой заказ.	This is not my order.
+Мой заказ еще не принесли.	My order hasn't come yet.
+Как это едят?	How do you eat this?
+Оно холодное.	It is cold.
+Слишком много специй.	It is too spicy.
+Не слишком сладко.	Not too sweet.
+Поменьше соли.	Not too salty.
+Не слишком крепкий.	Not too strong.
+Это не проварено (не прожарено).	This is not cooked enough.
+Очень жесткое.	It is tough.
+Это не совсем свежее.	This is not quite fresh.
+Это недостаточно чистое.	It is not clean enough.
+Оплата
+Счет, пожалуйста.	Bill, please.
+Чек, пожалуйста.	Check, please.
+Можно попросить счет?	Could I have the bill, please?
+Могу я взять чек?	Can I get the check, please?
+Я бы хотел рассчитаться сейчас.	I would like to pay now, please.
+Сколько я Вам должен?	How much do I owe you?
+Сколько всего?	How much is the total?
+Плата за обслуживание включена в счет?	Does the bill include the service charge?
+Мне кажется, в счете ошибка.	I believe the bill is added up wrong.
+Я заплачу по счету.	The bill is on me.
+Сегодня вечером я угощаю.	I treat you to dinner this evening.
+Запишите это на мой счет, пожалуйста.	Put it on my bill, please.
+Я плачу за всех.	I am paying for everything.
+Мы платим отдельно.	We are paying separately.
+Давайте заплатим поровну.	Let's split the bill.
+Позвольте мне заплатить мою долю.	Let me pay my share.
+Сдачи не надо.	Keep the change, please.
+
+
+Экскурсии
+Планы
+Я хотел бы поехать во Францию.	I want to go to France.
+Я собираюсь поехать во Францию.	I plan to go to France.
+Я улетаю в США на следующей неделе.	I'll leaving for the USA next week.
+Как долго Вы собираетесь пробыть в Париже?	How long do you intend to stay in Paris?
+Я хотел бы путешествовать туристическим классом.	I would like to travel tourist class.
+Я предпочитаю путешествовать автобусом (поездом, самолетом)	I prefer to go by bus (train, plane).
+Информация
+Какие достопримечательности здесь есть?	What special sights are there?
+Какие предлагаются экскурсии?	What sightseeing tours are available?
+Вы можете порекомендовать интересную экскурсию?	Can you recommend an interesting tour?
+Не могли бы Вы рассказать, какие здесь есть музеи?	Would you please tell me what museums there are here?
+Где находится театр?	Where is the theater?
+Где ближайшая станция метро?	Where is the nearest subway station?
+Где стоянка такси?	Where is the taxi stand?
+Здесь есть поблизости туалет?	Is there a public restroom near here?
+Можно воспользоваться Вашим туалетом?	May I use your bathroom?
+В котором часу мы вернемся?	What time does it get back?
+Сколько стоит эта экскурсия?	How much is this tour?
+Во сколько начало?	What time does it start?
+Питание включено в стоимость?	Are any meals included?
+Экскурсия по городу предусмотрена?	Is there a city tour here?
+Это однодневная экскурсия?	Is this an all-day tour?
+Дайте мне, пожалуйста, план города.	Please give me a map of the town.
+Где я могу купить план города?	Where can I buy the map of the town/city.
+У вас есть брошюра с описанием туров и экскурсий?	Do you have a brochure describing tours and excursions?
+Здесь есть театр?	Is there a theater here?
+Когда и где мы можем встретиться?	When and where can we meet?
+Где я могу купить билет?	Where can I buy a ticket?
+Сколько стоит входной билет?	How much is admission?
+Что интересного можно тут еще посмотреть?	What other interesting things are there to see?
+Это слишком далеко, чтобы идти пешком?	Is it too far to walk?
+У нас будет возможность сделать пару фотографий?	Will there be an opportunity to take some photographs?
+Сколько времени это будет идти?	How long will it run?
+Что идет сейчас?	What is showing now?
+Кто-нибудь здесь говорит по-английски?	Can anyone here speak English?
+Мне нужен гид, говорящий по-английски.	I want an English-speaking guide.
+Как пройти
+Извините, как пройти к этому месту?	Excuse me. How can I get to this place?
+Скажите, пожалуйста, как пройти к этой гостинице?	Would you tell me how to get to this hotel?
+Гостиница далеко отсюда?	Is the hotel far from here?
+Сколько это займет времени?	How long does it take?
+Оно на этой стороне?	Is that on this side?
+Как мне пройти к почте?	Will you show me the way to the post office?
+В какую сторону идти к центру?	Which way is downtown?
+Покажите на плане, где мы сейчас находимся.	Please point out where I am on this map.
+Пожалуйста, набросайте здесь план.	Please draw a map here.
+Где мы сейчас?	Where are we now?
+Как называется эта улица?	What's the name of this street?
+По чему можно ориентироваться по пути?	What landmarks are on the way?
+Мне идти прямо?	Should I go straight?
+По пути Вы увидите ресторан на другой стороне улицы.	On the way you’ll see a restaurant on the other side of the street.
+Это примерно десять минут ходьбы.	It’s about ten minutes of walk.
+Это совсем близко.	It’ s a short walk.
+Это прямо через улицу.	It’s right across the street.
+Это в конце коридора.	It’s at the end of this corridor.
+Это не очень далеко.	It’ s not so far.
+Вы не можете его не заметить.	You can’ t miss it.
+Подождите здесь минутку, пожалуйста.	Wait here a moment, please.
+Я выхожу на следующей остановке.	I get off at the next stop.
+Высадите меня здесь, пожалуйста.	Let me off here, please.
+Остановите здесь, пожалуйста.	Stop here, please.
+Развлечения
+Я хотел бы поехать куда-нибудь отдохнуть.	I would like to go somewhere to relax.
+Давайте сходим в какое-нибудь интересное место?	Shall we find a nice place to go?
+В какой кинотеатр пойдем?	Which movie house will we go to?
+Хотите пойти со мной в оперу?	Would you like to go to the opera with me?
+Я куплю билеты.	I’ll get the tickets.
+Я зайду за Вами в семь часов.	I’ll pick you up at seven o’clock.
+Давайте сходим сегодня вечером в кино.	Let’s go to the movie tonight.
+Кто Ваши любимые артисты?	Who are your favorite movie stars?
+Когда начинается кино?	When does the movie start?
+Покажите, где мое место, пожалуйста.	Will you take me to my seat, please?
+Когда заканчивается представление?	What time will the show be over?
+Когда начинается представление?	How soon does the show begin?
+Хотите пойти куда-нибудь потанцевать?	Would you like to go dancing?
+Разрешите пригласить Вас на танец.	May I have this dance, please?
+По телевизору будут интересные фильмы?	Are there any good movies on TV?
+Сегодня вечером по телевизору будет что-нибудь интересное?	Are there any good programs on TV tonight?
+Фотографии
+Здесь можно фотографировать?	May I take pictures here?
+Можно использовать вспышку?	May I use a flash?
+Не могли бы Вы сфотографировать меня?	Would you mind taking a picture for me?
+Сфотографируйтесь со мной, пожалуйста.	Please pose with me.
+
+Покупки
+Информация
+Когда вы закрываетесь?	When do you close ?
+Когда закрывается этот магазин?	When does this store close?
+До скольки вы открыты в рабочие дни?	How late are you opened on weekdays?
+Открыто с девяти до пяти.	Open from nine o’clock to five o’clock .
+Закрыто с двенадцати до двух.	Closed from twelve o’clock to two o’clock .
+Где здесь торговый центр ?	Where is the shopping area?
+Там есть безналоговый магазин?	Is there a tax-free shop?
+Там есть универмаг ?	Is there a department store?
+На каком этаже продовольственный отдел?	On which floor is the food department?
+Какие оригинальные изделия есть в этом городе?	What are some special products of this town?
+Где я могу это купить?	Where can I buy it?
+Обслуживание
+Я только смотрю.	I’m just looking around .
+Это дорого ?	Is this expensive?
+Это неплохо , но дороговато .	It’s good, but it’s a little expensive.
+У вас есть такой же?	Do you have one like this?
+У вас есть такой же другого цвета?	Do you have this in another colour?
+У вас есть такое же лучшего качества.	Do you have one of better quality?
+У вас есть побольше ?	Do you have a bigger one?
+У вас есть подешевле ?	Do you have a cheaper one?
+Я хотел бы взглянуть на более светлый (темный) тон.	I would like to see a lighter (darker) shade.
+Я беру это .	I’ll take this.
+Я могу купить это без налога?	Can I buy it tax-free?
+Можно попросить подарочную упаковку?	Could I have a gift box?
+Я не могу себе позволить это купить.	I can’t afford to buy this.
+Отошлите это, пожалуйста, в гостиницу с чеком.	Will you send it to the hotel with a receipt?
+Не могли бы Вы отправить это сегодня?	Would you please send it today?
+Могу я это забрать ?	May I pick it up?
+Сколько времени займет ремонт ?	How long will it take to repair?
+Вы даете гарантию на ремонт?	Will you guarantee the repairs?
+Я зайду попозже .	I will come back later.
+Одежда
+Я хотел бы примерить .	I’d like to try it on.
+Я хотел бы примерить оба.	I would like to try both of them on.
+Где примерочная ?	Where’s the fitting room?
+Вы могли бы снять мерку на пиджак?	Will you take the measurements for a jacket?
+Можете снять с меня мерку?	Can you measure me?
+Вы думаете, этот материал долговечный?	Do you think this material is durable?
+Мне нужен костюм на заказ.	I would like a custom-made suit.
+Я бы хотела юбку на заказ.	I would like to have a custom-made skirt.
+Я бы хотела взглянуть на хлопчатобумажную ночную рубашку.	I wish to look at a cotton nightdress.
+Меня интересует приталенный смокинг .	I would like to have a fitted dinner jacket.
+Я хотел бы купить пижаму.	I would like a pair of pajamas.
+У вас есть пиджак к этим брюкам?	Do you have a jacket to match these pants?
+Я бы хотела, чтобы здесь была складка спереди.	I would like to have a pleat in the front.
+Когда можно будет прийти на примерку?	When can I have a fitting?
+Вы подгоните это по длине?	Will you adjust the length?
+В этом месте слишком тесно.	It ’ s too tight here.
+Вещи будут готовы до следующей пятницы?	Can clothes be finished before next Friday?
+На заказ.	Tailor-made .
+Личные предметы
+Не могли бы Вы показать мне ассортимент шелковых галстуков?	Could you show me a selection of silk ties?
+У вас есть другие цвета?	Do you have it in different colours?
+Я бы хотела шелковый шарфик к этой блузке.	I would like a silk scarf to match this blouse.
+Меня интересует коричневый пояс .	I would like to have a brown belt.
+Это натуральная кожа ?	Is this genuine leather?
+Покажите мне, пожалуйста, кожаное портмоне.	I’d like a leather wallet.
+Мне нужен практичный багажный комплект.	I would like to see a practical set of luggage.
+Покажите мне мягкий кожаный портфель.	I would like to see a soft leather portfolio.
+Я бы хотел приобрести мягкие контактные линзы.	I would like soft contact lenses.
+Мне нужны солнцезащитные очки .	I would like a pair of sunglasses.
+Эти очки для меня слишком слабые.	These glasses are too weak for me.
+Я бы хотел примерить очки посильнее.	I would like to try some stronger glasses.
+У вас есть хлопчатобумажные (шерстяные, нейлоновые) носки?	Do you have cotton (wool, nylon) socks?
+Мне нужны две пары носков.	May I have two pairs of socks?
+Мне нужна пара легкой летней обуви.	I would like a pair of lightweight summer shoes.
+У вас найдется пара спортивной обуви?	Do you have a pair of tennis shoes?
+Что Вы можете посоветовать при воспалении глаз?	Can you recommend something for irritated eyes?
+Мне нужно какое-нибудь средство от раздражения кожи.	I would like something for skin irritation.
+Покажите мне другой, пожалуйста.	Please show me another one.
+Из какого материала это сделано?	What material is it made of?
+Электроника
+Я хотел бы посмотреть камеру.	I would like to see a camera.
+Не могли бы вставить пленку в мой фотоаппарат?	Would you please put film in my camera?
+Мне нужна цветная пленка.	I would like colour film.
+Мне нужно по три отпечатка с каждого кадра.	I would like three prints of each.
+Не могли бы Вы увеличить эти фотографии?	I would like these photographs enlarged.
+Я хочу купить компакт диск в подарок.	I would like to buy a CD for someone.
+У вас есть батарейки ?	Have you got any batteries?
+Мне нужны две лампочки на 60 ватт.	I would like to have two 60 (sixty) watt bulbs.
+Покажите , как этим пользоваться .	Will you show me how to operare it?
+Когда они будут готовы ?	When will they be ready?
+Думаете , это можно отремонтировать ?	Do you think you can repair it?
+Вы можете сделать ремонт при мне?	Can you repair this while I wait?
+Сувениры
+Я хотел бы купить сувенир на память об этом городе.	I would like to have a souvenir of the town.
+У вас есть фотографии с видами этой местности?	Do you have pictures with scenes of this area?
+У вас есть открытка с видом города?	Do you have a postcard with a picture of the town?
+Это хрусталь ?	Are these crystals?
+Я бы хотел букет красных роз.	I would like a bouquet of red roses.
+У вас есть почтовые марки?	Do you have stamps?
+Сколько шоколада можно вывести из страны?	How much chocolate can I take out of the country?
+Какая начинка у этих конфет?	What's in that chocolate?
+Две плитки горького шоколада .	I would like two bars of plain chocolate.
+Книги
+Можно просто посмотреть?	May I browse?
+У вас есть какая-нибудь развлекательная книжка на английском?	Do yoy have an entertaining book in English?
+Я хотел бы детектив на английском.	I would like to have a mystery novel in English.
+Русскую газету , пожалуйста .	Please give me a Russian newspaper.
+Мне нужен блокнот для заметок.	I would like a writing pad.
+Мне нужна подробная карта города.	I would like a clearly marked map of this town.
+У вас есть поздравительные открытки?	Do you have any greeting cards?
+Оплата
+Где я могу заплатить?	Where do I pay?
+Вы принимаете кредитные карточки?	Do you accept credit cards?
+Можно заплатить персональным чеком?	Can I have a personal check?
+Вы принимаете иностранную валюту?	Do you accept foreign currency?
+Это больше, чем я могу заплатить.	This is more than I can pay.
+Цена неоправданно велика .	The price is not reasonable.
+Цена больше, чем я рассчитывал.	The price is higher than what I had in mind.
+Можете предложить мне лучшую цену?	Can you give me a better price?
+Вы можете дать мне скидку за расчет наличными?	Can you give me a cash discount?
+Можно купить это в рассрочку?	Can I buy it on installment?
+Здесь в счете нет ошибки?	Isn't there a mistake in the bill?
+Проверьте еще раз .	Will you check it again?
+Вы неправильно дали мне сдачу.	You gave me the wrong change.
+Дайте мне , пожалуйста , чек .	Can you give me a receipt, please?
+Я уже заплатил .	I have already paid.
+Можете послать это по этому адресу?	Will you send it to this address?
+Я хотел бы получить это сегодня.	I'd like to have it today.
+Я хотел бы это вернуть.	I'd like to return this.
+Вот мой чек .	Here's my receipt.
+Это сломано .	This is broken.
+
+Средства связи
+Почта
+Где находится почта?	Where is the post office?
+Не могли бы Вы объяснить, как пройти к почте?	Would you please direct me to the post office?
+Я хочу послать это письмо заказным.	Please register this letter.
+Я хочу послать его экспресс-почтой.	I would like to send it by express.
+Я хотел бы послать это письмо авиапочтой.	I’d like to send this letter by air mail.
+Пожалуйста, пошлите его спецдоставкой.	Please send it by special delivery.
+Застрахуйте его, пожалуйста.	Insure it, please.
+Это весит слишком много?	Does this weigh too much?
+Сколько это стоит?	How much is it?
+Сколько будет стоить пересылка этих писем?	How much will it cost to send these letters?
+Вы не знаете, сколько стоит письмо а Россию?	Do you know what the postage is to Russia?
+Сколько стоит авиаписьмо в Россию?	How much does it cost to send an airmail to Russia?
+Где я могу купить марки и открытки?	Where can I get stamps and postcards?
+Я хотел бы отправить эту посылку в Варшаву.	I’d like to send this package to Warsaw.
+Взвесьте это письмо, пожалуйста.	Will you weigh this parcel, please?
+Отправьте, пожалуйста, эту посылку как можно скорее.	Would you please send this parcel as quickly as possible?
+Телеграф
+Я хотел бы отправить телеграмму.	I would like to send a telegram.
+Можно попросить бланк телеграммы?	May I have a telegram form?
+Когда телеграмма будет в Москве?	When will the telegram arrive in Moscow?
+Это очень долго. Вы не могли бы послать ее экспрессом?	That takes too long. Would you please do it by express?
+Сколько стоит одно слово?	What is the charge per word?
+Сколько букв может быть в одном слове?	How many letters are allowed per word?
+Телефон
+Местный звонок.	Local call.
+Международный звонок.	International call.
+Я хотел бы сделать звонок в Москву за счет адресата.	I want to make a collect call to Moscow.
+Я хотел бы позвонить за границу.	I’d like to make an overseas call.
+Разговор с уведомлением, пожалуйста.	Make it a person-to-person call, please.
+Сколько стоит трехминутный разговор с Германией?	How much does it cost for three minutes to Germany?
+Я хотел бы позвонить в Мюнхен.	I would like to make a call to Munich.
+Где здесь поблизости телефон-автомат?	Where can I find a public phone around here?
+Линия занята.	The line is busy.
+Этого номера нет в справочнике.	The number is unlisted.
+Можно мне набирать напрямую?	Can I dial directly?
+Извините, Вы ошиблись номером.	I’m sorry, you have the wrong number.
+Его сейчас нет.	He’s not in now.
+Она сейчас говорит по другому телефону.	She’s on another line now.
+Не кладите трубку, пожалуйста.	Hold the line, please.
+Не кладите пока трубку, пожалуйста.	Don’t hang up yet, please.
+Я перезвоню позже.	I’ll call again later.
+Добавочный 212, пожалуйста.	Give me extension 212 (two-one-two), please.
+Кто говорит?	Who is calling, please?
+Как это пишется?	How do you spell that?
+Я ошибся номером.	I got the wrong number.
+Пожалуйста, попросите его мне позвонить.	Please ask him to call me.
+Я слушаю.	Go ahead.
+Вы можете ему кое-что передать?	Could you leave a message?
+Когда он вернется?	What time is he expected back?
+Спасибо за звонок.	Thank you for calling.
+
+В банке
+Вклад / снятие денег
+До которого часа открыт банк?	How late is the bank open?
+Я хотел бы открыть счет.	I would like to open an account.
+Я хочу снять со счета …	I want to withdraw...
+Я хочу открыть сберегательный счет.	I’d like to open a saving account, please.
+Я хочу положить на счет немного денег.	I’d like to deposit some money.
+Вот мое удостоверение.	This is my identification.
+Как быстро можно это сделать?	How quickly can this be done?
+Обмен валюты
+Где я могу обменять деньги?	Where can I change money?
+Какой обменный курс доллара?	What is the exchange rate for dollars?
+Разменяйте мне, пожалуйста, пять фунтов.	Can you give me change for five pounds?
+Я хотел бы обналичить дорожный чек.	I would like to cash this traveler’s check.
+Не могли бы Вы разменять 100-долларовую купюру?	Could you break this 100 (hundred) dollar bill?
+Разменяйте, пожалуйста, эту купюру.	Could you give me change for this bill?
+Не могли бы Вы часть дать мелочью?	Could you include some small change too?
+Мне нужна мелочь.	I’d like some change.
+Мне нужны монеты всех достоинств.	I’d like coins of all sizes, please.
+
+Вызов полиции
+Это срочно !	It’s an emergency!
+Немедленно вызовите полицию.	Please call the police immediately.
+Пожалуйста, заполните протокол о краже.	Please make out a theft report.
+Я потерял паспорт.	I lost my passport.
+Мой паспорт пропал.	My passport is missing.
+У меня украли бумажник.	My wallet was stolen.
+У меня украли бумажник в метро.	I was robbed of my wallet on the subway.
+Кому я должен сообщить?	Whom should I inform?
+
+Здоровье
+Симптомы
+Я чувствую себя неважно.	I don’t feel well.
+У меня болит спина.	I have pain in my back.
+Меня знобит.	I have chills.
+У меня кружится голова.	I feel dizzy.
+У меня сильное головокружение.	My head is spinning.
+Мне плохо.	I feel faint.
+У меня болит голова.	I have a headache.
+У меня аллергия на пенициллин.	I’m allergic to penicillin.
+У меня высокое давление.	I have high blood pressure.
+У меня болит здесь.	I have a pain here.
+У меня температура.	I have a fever.
+Я простыл (у меня насморк).	I have a cold.
+У меня сильно болит зуб.	I have a severe toothache.
+Что-то попало в глаз.	I have something in my eye.
+Меня тошнит.	I feel like throwing up.
+Мне плохо.	I feel sick.
+У меня проблемы с сердцем.	I’ve got a heart problem.
+Я растянул связки на ноге.	My ankle is sprained.
+У меня болит горло.	I’ve got a sore throat.
+Я страдаю от бессонницы.	I’m suffering from insomnia.
+У меня заложен нос.	I have a stuffy nose.
+Я чувствую себя немного лучше.	I fell a little better.
+У меня насморк	My nose is running.
+На приеме у врача
+Я хотел бы попасть на прием завтра в...	I’d like an appointment for 10 (ten) a.m. tomorrow.
+У меня сильный приступ морской болезни.	I’ m very seasick.
+Вызовите врача, пожалуйста.	Can you get a doctor, please?
+Вызовите скорую помощь.	Would you please call an ambulance?
+Отвезите меня в больницу, пожалуйста.	Please take me to the hospital.
+Это срочно.	It’s urgent.
+Я должен остаться в больнице?	Do I have to stay in the hospital?
+Думаете это надолго?	Do you think it will be prolonged?
+Как это случилось?	How did that happen?
+Я споткнулся на лестнице.	I tripped on the stairs.
+Вы считает это серьезно?	Do you think it is serious?
+Это заразно?	Is it contagious?
+Можете дать мне что-нибудь болеутоляющее?	Can you give me something to stop the pain?
+Мне нужна операция?	Do I need an operation?
+У меня первая группа крови, резус положительный.	My blood type is A positive.
+Какая у меня температура?	What’s my temperature?
+Сколько мне нужно отдыхать?	How long must I rest?
+Долго я буду выздоравливать?	How long will it take to recover?
+Сколько времени займет лечение?	How long will the treatment take?
+Мне можно продолжать путешествие?	Can I continue my trip?
+Сообщите моей семье, пожалуйста.	Would you inform my family, please?
+Сколько раз в день мне принимать это лекарство?	How often do I take this medicine?
+Можно попросить что-нибудь от кашля?	can I have something for a cough?
+Я хотел бы запломбировать зуб.	I would like to have a tooth filled.
+Нужно удалять?	Is it necessary to pull it out?
+
+Салон красоты
+Я бы хотел постричься.	I would like to have a haircut.
+Стригите покороче, пожалуйста.	Cut it short, please.
+Только подровняйте, пожалуйста.	Just trim it, please.
+Не слишком коротко.	Not too short.
+Я хотел бы побриться.	I would like to have a shave.
+Постригите и побрейте, пожалуйста.	Haircut and shave, please.
+Я бы хотела помыть голову.	I would like to have a shampoo.
+Я бы хотела покрасить волосы.	I would like to have my hair colored.
+Сделайте мне пробор на левой (правой) стороне.	Would you please part my hair on the left (right) side?
+Зачешите мне волосы назад.	Would you please comb my hair back from the forehead?
+Я хотела бы сделать маникюр.	I would like to have a manicure.
+Здесь можно где-нибудь отдохнуть?	Is there a place to rest?
+
+Спорт
+Тут есть поблизости кемпинг?	Is there a camp site nearby?
+Мы можем расположиться здесь?	May we camp here?
+Мы можем остаться здесь на ночь?	Can we spend the night here?
+Город далеко отсюда?	Is the town far from here?
+Где можно набрать воды?	Is there a place where we can get water?
+Я хотел бы половить рыбу.	I am interested in fishing.
+Можно здесь ловить рыбу?	Is fishing allowed here?
+Могу я здесь покататься на водных лыжах?	Can I go water-skiing there?
+
+Повседневные фразы
+Общие
+Спасибо.	Thank you / Thanks.
+Большое спасибо.	Thank you very much.
+Пожалуйста (в ответ на "спасибо").	You're welcome.
+Да.	Yes.
+Нет.	No.
+Пожалуйста (просьба).	Please.
+Вот, пожалуйста (что-то даешь).	Here you are.
+Понимаю.	I see.
+Хорошо.	All right / OK.
+Ничего.	That's all right.
+Не бери в голову!	Never mind!
+Как далеко от города?	How far is it to the town?
+Сколько?	How many (much)?
+Как долго?	How long?
+Сюда, пожалуйста.	This way, please.
+Кого спросить?	Whom should I ask?
+Не понимаю.	I don't understand.
+Извините, я не расслышал.	I'm sorry, I didn't catch you.
+После вас.	After you.
+Здесь сильное движение.	There's a lot of traffic here.
+Я заблудился.	I'm lost.
+Вы говорите по-английски?	Do you speak English?
+Приветствия
+Доброе утро!	Good morning!
+Добрый день!	Good afternoon!
+Добрый вечер!	Good evening!
+Спокойной ночи.	Good night.
+Привет!	Hallo! / Hi!
+Здравствуйте.	How do you do?
+Давайте встретимся в (фойе).	I'd like to meet you in the (lobby).
+Приятно познакомиться.	It's nice to meet you.
+Рад Вас снова видеть.	I'm glad to see you again.
+Я женат (замужем).	I am married.
+Я холост (не замужем).	I am single.
+Как Ваши дела?	How are you?
+Как успехи?	How are you getting along?
+Какие новости?	What's news?
+Давненько вас не видел.	Long time to see.
+Можно узнать, как Вас зовут?	May I have your name?
+Вот моя визитная карточка.	This is my business card.
+Позвольте представить Вас моему мужу (моей жене).	May I introduce you to my husband (wife)? /
+Let me introduce you to...
+Передавайте наилучшие пожелания от меня Вашей матери.	Please give my kind regards to your mother.
+Передавай привет Николаю.	Say hallo to Nick for me.
+Спасибо, с удовольствием.	I would like to do that, thank you. / With great pleasure, thank you.
+С удовольствием.	I am pleased to do so.
+До свидания.	Goodbye.
+До встречи.	See you later.
+До скорой встречи.	See you soon.
+Счастливо.	Take care of yourself.
+Не пропадайте.	Let's keep in touch.
+С нетерпением жду нашей следующей встречи.	I'm looking forward to seeing you again.
+Приглашения
+Вы завтра свободны?	Will you be free tomorrow?
+Хотите пойти со мной?	Would you like to come with me?
+Позвольте мне быть Вашим гидом.	Let me be your guide.
+Пойдете со мной за покупками?	Won't you go sopping with me?
+Пойдемте купаться.	Let's go swimming.
+Не хотите чего-нибудь поесть?	Would you care for something to eat?
+Звучит неплохо.	That sounds good.
+Позвольте предложить вам что-нибудь выпить.	May I offer you a drink?
+Хотите чего-нибудь выпить?	How about a drink?
+Ваше здоровье!	Cheers!
+Не пора ли попить кофейку?	Let's take a coffee break.
+Еще чашечку кофе, пожалуйста.	I'd like another cup of coffee.
+Чувствуйте себя как дома.	Make yourself at home.
+Давайте платить пополам.	Let's go fifty-fifty on the bill.
+Он платит счет.	He'll pay the bill.
+Комплименты
+Мне нравится Ваша новая прическа.	Your new hairdo is not bad.
+У Вас великолепный вкус в одежде.	You have wonderful taste in clothes.
+Какая ты очаровательная девушка!	What a charming girl you are!
+Спасибо за комплимент.	Thank you for your compliment.
+Спасибо за прекрасный день.	Thank you for a nice day.
+Спасибо, что встретили меня (зашли за мной).	Thank you for picking me up.
+Очень любезно с Вашей стороны.	That's very kind of you.
+Вы очень добры.	You're very generous.
+Я очень Вам благодарен.	I'm really grateful to you.
+Спасибо и извините за беспокойство.	Thank you for your trouble.
+Весьма признателен.	Much obliged.
+Я очень Вам обязан.	I'm very much obliged to you.
+Извинения
+Извините (если привлекаешь внимание, прерываешь).	Excuse me.
+Извините (если извиняешься).	Sorry.
+Извините, я на секунду.	Excuse me a moment.
+Подождите минуту, пожалуйста.	Just a minute please.
+Это моя вина.	That's my fault.
+Я был неосторожен.	It was careless of me.
+Я не хотел Вас обидеть.	I didn't mean that.
+В следующий раз постараюсь.	Next time I'll get it right.
+Извините за опоздание.	Forgive me for being late.
+Извините, что заставил Вас ждать.	I'm sorry to have kept you waiting.
+Я не помешаю?	Am I disturbing you?
+Можно Вас побеспокоить на секунду?	May I bother you a moment?
+Нет, ничего.	Never mind.
+Ничего, пожалуйста.	Oh it's nothing.
+Ничего.	Forget it.
+Просьбы
+Простите.	I beg your pardon.
+Повторите, пожалуйста.	Say it once more please.
+Пожалуйста, говорите немного медленнее.	Please speak more slowly.
+Напишите это здесь, пожалуйста.	Please write it here.
+Пожалуйста, поторопитесь.	Please hurry up.
+Пойдемте со мной!	Come with me!
+Пожалуйста, вызовите врача.	Please call a doctor.
+Не одолжите...?	Can you lend me...?
+Сделайте одолжение.	Will you do me a favor?
+Можно взглянуть?	May I take a look at it?
+Можно одолжить Вашу ручку?	Can I borrow your pen?
+Помогите донести, пожалуйста.	Would you please help me carry this?
+Пожалуйста, помогите мне с этими пакетами.	Could you give me a hand with these parcels?
+Не отправите ли за меня письмо?	Will you please mail this letter for me?
+Помогите мне с этой проблемой.	Will you help me with this problem?
+Можно узнать Ваш адрес?	May I have your address?
+Не подбросите до центра?	Could you drop me downtown, please?
+Что это?	What's this?
+Что это значит?	What does this mean?
+Где туалет?	Where is the restroom?
+Почему бы и нет?	Why not?
+Чем скорее, тем лучше.	The sooner the better.
+Чувства
+Я не уверен.	I'm not sure.
+Не думаю.	I don't think so.
+Боюсь, что нет.	I'm afraid not.
+Невероятно.	It's incredible.
+Боюсь, что Вы ошиблись.	I'm afraid you're mistaken.
+О, как жаль.	That's too bad.
+У меня плохое настроение.	I feel blue.
+Это отвратительно.	It's disgusting.
+Меня от тебя тошнит.	You make me sick.
+Успокойся, все будет в порядке.	Calm down, everything will be OK.
+Не надо нервничать.	Don't be nervous. / Take it easy.
+Не торопитесь.	Take your time.
+Не обращай(те) внимания на то, что он сказал.	Don't bother with what he said.
+Остыньте!	Cool it!
+Не унывайте!	Cheer up!
+Какая жалость!	What a pity!
+Вот так сюрприз!	What a surprise!
+Вы, должно быть, шутите!	You must be kidding!
+О боже, какой кошмар!	Oh dear what a mess!
+Время
+Который час?	What time is it?
+Сколько времени?	What time do you have?
+Семь часов.	It's seven o'clock.
+Без четверти восемь.	It's a quarter to eight.
+Десять минут пятого.	It's ten minutes past four.
+Полдевятого.	It's half past eight.
+Рано.	It's early.
+Уже поздно?	Is it late?
+Сколько времени идти туда пешком?	How long will it take to wall over there?
+Пожелания
+Поздравляю!	Congratulations!
+Поздравляю с днем рождения!	Best wishes for your birthday!
+С рождеством!	Merry Christmas!
+Наилучшие пожелания в новом году!	Best wishes for a Happy New Year!
+Желаю счастья сегодня и всегда!	Happy many returns of the day!
+Христос воскрес!	Happy Easter!
+Желаю Вам счастья и многих лет жизни.	I wish you many years of happiness.
+Поздравляю от всей души.	Heartiest congratulations.
+Желаю Вам поскорее выздороветь.	I hope you'll get better soon.
+Счастливой поездки!	Have a nice trip!
+Удачи!	Good luck.
+Давай еще раз встретимся!	Let's meet again!
+Погода
+Какой чудесный день!	What a nice day!
+Жарко.	It's hot.
+Опускается туман.	It's getting foggy.
+Небо расчищается.	The sky is clearing up.
+Завтра будет солнечно.	It will be sunny tomorrow.
+Какой ужасный день!	What a nasty day!
+Интересно, будет гроза?	I wonder if there will be a storm?
+Какая, по-вашему, будет погода?	What do you think the weather looks like?
+
+
+

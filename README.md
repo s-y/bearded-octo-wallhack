@@ -1,4 +1,14 @@
 bearded-octo-wallhack
 =====================
 
-Simpe Python  scipr to memorize English phrases
+Simpe Python  script to memorize English phrases
+
+Install
+=======
+
+.. code-block::
+
+   sudo apt-get install python-notify
+   crontab -e
+   and add to end 
+   */10 * * * * /usr/bin/python /path/to/your/main.py
